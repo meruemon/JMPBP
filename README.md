@@ -93,9 +93,8 @@ If you find this code helps your work, please cite our paper:
     AUTHOR = {Sugiyama, Takuto and Yoshida, Soh and Muneyasu, Mitsuji},
     TITLE = {Joint Modeling of Prediction and Behavioral Patterns for Reliable Recommendation with Implicit Feedback},
     JOURNAL = {IEEE Access},
-    VOLUME = {------------vol------------},
+    VOLUME = {13},
     YEAR = {2025},
-    NUMBER = {------------num------------},
-    ARTICLE-NUMBER = {------------art------------},
+    PAGES = {49788--49800}
 }
 ```
